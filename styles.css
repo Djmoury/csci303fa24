@@ -1,0 +1,87 @@
+.error {
+    color: red;
+    font-weight: bold;
+}
+
+.success {
+    color: blue;
+    font-weight: bold;
+}
+
+header {
+    background-color: #adcdcd;
+    padding: 16px 0;
+    text-align: center;
+}
+
+footer {
+    background-color: #008080;
+    color: #fff;
+    padding: 16px 0;
+    text-align: center;
+}
+
+nav {
+
+    background-color: #85b2b2;
+    padding: 8px;
+}
+
+nav a {
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+nav a:link,
+nav a:visited {
+    color: #000;
+    text-decoration: none;
+}
+
+nav a:hover {
+    color: #006c6c;
+    text-decoration: underline;
+}
+
+nav a:active {
+    color: #005859;
+}
+
+a:link,
+a:visited {
+    color: #008080;
+    text-decoration: none;
+}
+
+a:hover {
+    color: #006c6c;
+    text-decoration: underline;
+}
+
+a:active {
+    color: #005859;
+}
+
+h1 {
+    font-size: 40px;
+    font-weight: bold;
+    color: #000000;
+}
+
+h2 {
+    font-size: 32px;
+    font-weight: bold;
+    color: #005859;
+    margin-bottom: 13px;
+}
+
+table {
+    border-collapse: collapse;
+}
+
+th, td {
+    border: 1px solid #ddd;
+    padding: 8px;
+    text-align: left;
+    border-color: #000000;
+}

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="8e30cc95-abe4-440c-b825-3c37aa678188" name="ccuresearch.coastal.edu" url="http://ccuresearch.coastal.edu/djmoury">
+        <fileTransfer rootFolder="/var/students/djmoury" accessType="SFTP" host="ccuresearch.coastal.edu" port="8822" sshConfigId="e823c412-4efd-42df-96b4-7ff8f4ca6425" sshConfig="djmoury@ccuresearch.coastal.edu:8822 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
